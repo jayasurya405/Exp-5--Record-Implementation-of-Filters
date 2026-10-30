@@ -160,19 +160,19 @@ plt.show()
 
 #### iv) Using Median Filter
 
-<img width="986" height="286" alt="image" src="https://github.com/user-attachments/assets/ebe8b942-9de0-410a-8fa0-c98207b20907" />
+<img width="732" height="455" alt="image" src="https://github.com/user-attachments/assets/d3816b5a-4900-4482-962f-da025b11014d" />
 
 
 ### 2. Sharpening Filters
 
 #### i) Using Laplacian Kernel
 
-<img width="692" height="210" alt="image" src="https://github.com/user-attachments/assets/0007db29-4011-4bab-8324-b0028c9c07fd" />
+<img width="530" height="321" alt="image" src="https://github.com/user-attachments/assets/ec781ebc-192e-4646-809c-b3f23e836304" />
 
 
 #### ii) Using Laplacian Operator
 
-<img width="673" height="220" alt="image" src="https://github.com/user-attachments/assets/b902b0fd-57c5-4355-8c14-10f19bde9d62" />
+<img width="528" height="332" alt="image" src="https://github.com/user-attachments/assets/0b1f069c-c0de-4094-933f-dce84cd16d39" />
 
 
 ## Result
